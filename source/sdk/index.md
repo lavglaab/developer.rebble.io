@@ -65,8 +65,10 @@ Install [uv](https://docs.astral.sh/uv/getting-started/installation/), a fast pa
 Then, run:
 
 ```bash
-uv tool install pebble-tool
+uv tool install pebble-tool --python 3.13
 ```
+
+**Note:** As of version 5.0.18, Core Devices' `pebble-tool` does not yet support Python 3.14, so we currently recommend installing under Python 3.13.
 
 ## Next Steps
 
