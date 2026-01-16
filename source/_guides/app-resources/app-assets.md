@@ -29,10 +29,11 @@ given below.
 ## Pebble Timeline Pin Icons
 
 Many timeline pin icons 
-[are available]({{ site.links.s3_assets }}/assets/other/pebble-timeline-icons-pdc.zip) 
-in Pebble Draw Command or PDC format (as described in 
-{% guide_link graphics-and-animations/vector-graphics %}) for use in watchfaces
-and watchapps. These are useful in many kinds of generic apps.
+[are available](https://github.com/pebble-dev/iconography) 
+in SVG format, for conversion to Pebble Draw Command or PDC
+(as described in {% guide_link graphics-and-animations/vector-graphics %})
+for use in watchfaces and watchapps. These are useful in many
+kinds of generic apps.
 
 
 ## Example PDC icon SVG Files
